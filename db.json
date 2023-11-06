@@ -2,7 +2,7 @@
     "users": [
      {
     "id": 1,
-    "image": "",
+    "image": "https://img.freepik.com/premium-vector/business-man-face-portrait-icon_48369-5527.jpg?size=626&ext=jpg&uid=R109767327&ga=GA1.1.1257944628.1683352118&semt=ais",
     "username": "shatru",
     "DOB": "2023-11-08",
     "phone": "123-233-2345",
@@ -12,7 +12,7 @@
   },
         {
     "id": 2,
-    "image": "",
+    "image": "https://img.freepik.com/premium-vector/business-man-face-portrait-icon_48369-5527.jpg?size=626&ext=jpg&uid=R109767327&ga=GA1.1.1257944628.1683352118&semt=ais",
     "username": "sid",
     "DOB": "2023-11-08",
     "phone": "789-567-3456",
